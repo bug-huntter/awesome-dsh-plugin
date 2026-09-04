@@ -1,0 +1,6 @@
+url: https://github.com/bug-huntter/dsh-vision-plugin
+name: bug-huntter/dsh-vision-plugin
+category: vision
+description:
+  en: 'Image understanding plugin for DSH with configurable OpenAI-compatible vision models.'
+  zh: '为 DSH 提供可配置 OpenAI 兼容视觉模型的图片理解插件。'
